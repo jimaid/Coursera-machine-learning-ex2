@@ -1,1 +1,1 @@
- # Coursera Mcahine Learning Ex2
+ # Coursera Machine Learning Ex2
